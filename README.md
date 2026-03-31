@@ -2,9 +2,9 @@
 
 This project displays a visual representation of revenue data using a grid of colored squares, where each square represents $1,000. It also provides a breakdown of revenue by project.
 
-See example live at [https://florin-pop.com/one-million/](https://florin-pop.com/one-million/)
+See example live at [https://sebwilgosz.com/one-million](https://sebwilgosz.com/one-million)
 
-[![example screenshot](./example.png)](https://florin-pop.com/one-million/)
+[![example screenshot](./example.png)](https://sebwilgosz.com/one-million)
 
 ## Getting Started
 
